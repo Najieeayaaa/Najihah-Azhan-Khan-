@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm NAJIHAH BINTI AZHAN KHAN</h1>
-<h3 align="center">A student from UNIVERSITI TEKNOLOGI MALAYSIA(UTM)🚀</h3>
+<h1 align="center">Hi 👋, I'm Najihah Binti Azhan Khan</h1>
+<h3 align="center">A student from Universiti Teknologi Malaysia (UTM)</h3>
 
-- 🌱 I’m currently learning **computer science(bioinformatics)**
+- 🌱 I’m currently learning **bioinformatics**
 
-- 👨‍💻 This is my [https://sites.google.com/graduate.utm.my/myprofile/home](https://sites.google.com/graduate.utm.my/myprofile/home)
+- 🤝 I’m looking for help with **digital logic circuit**
+
+- 👨‍💻 All of my projects are available at [<a href="https://sites.google.com/graduate.utm.my/myprofile/pc-assembling">portfolio</a>](<a href="https://sites.google.com/graduate.utm.my/myprofile/pc-assembling">portfolio</a>)
 
 - 📫 How to reach me **najihah.ak@graduate.utm.my**
+
+- ⚡ Fun fact **I write code like I cook—lots of trial and error, but somehow it turns out fine!" 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
