@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **digital logic circuit**
 
-- 👨‍💻 All of my projects are available at [<a href="https://sites.google.com/graduate.utm.my/myprofile/pc-assembling">portfolio</a>](<a href="https://sites.google.com/graduate.utm.my/myprofile/pc-assembling">portfolio</a>)
+- 👨‍💻 All of my projects are available at <a href="https://sites.google.com/graduate.utm.my/myprofile/pc-assembling">portfolio</a>
 
 - 📫 How to reach me **najihah.ak@graduate.utm.my**
 
